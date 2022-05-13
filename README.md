@@ -1,4 +1,4 @@
-## Olá, sou Leandro Espindula. Cursando Engenharia de software na Unicesumar e estudande na Blue EdTech
+## Olá, sou Leandro Espindula. Cursando Engenharia de software na Unicesumar e estudande na Blue EdTech <img src="https://user-images.githubusercontent.com/95504029/151560441-2e792d97-fd65-462c-8fd7-70f581de5674.gif" width="100">!
 <div align="center">
   <a href="https://github.com/leandroespindula">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroespindula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
