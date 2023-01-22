@@ -1,4 +1,4 @@
-## Olá, sou Leandro Espindula. Ex estudante de Engenharia de software na Unicesumar e estudande no Senai Programa Floripa mais tec<img src="https://user-images.githubusercontent.com/95504029/151560441-2e792d97-fd65-462c-8fd7-70f581de5674.gif](https://floripamaistec.pmf.sc.gov.br/wp-content/themes/floripamaistec/img/logos/logo-menu.svg)" width="100">!
+## Olá, sou Leandro Espindula. Ex estudante de Engenharia de software na Unicesumar e estudande no Senai Programa Floripa mais tec<img src="https://floripamaistec.pmf.sc.gov.br/wp-content/themes/floripamaistec/img/logos/logo-menu.svg" width="100">!
 <div align="center">
   <a href="https://github.com/leandroespindula">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroespindula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
